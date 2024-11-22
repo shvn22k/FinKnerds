@@ -1,2 +1,2 @@
 # FinKnerds
-gfg x glbitm fintech hackathon project
+gfg x glbitm fintech hackathon project round 1
